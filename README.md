@@ -19,9 +19,9 @@ A client supplied a worn drive sprocket requesting manufacturing and replacement
 * PS: The ISO standard correspondent to ANSI B29.1 would be ISO 606 I believe
 
 ### 2.Design Calculations
-Using standard ANSI B29.1 formulas for a **14-tooth ($N = 14$)** sprocket, the PCD and root radii were calculated:
+Using standard ANSI B29.1 formulas for a **15-tooth** sprocket, the PCD and root radii were calculated:
 
-$$PCD = \frac{P}{\sin\left(\frac{180^\circ}{N}\right)} = \frac{50.8\text{ mm}}{\sin\left(\frac{180^\circ}{14}\right)} \approx 228.48\text{ mm}$$
+$$PCD = \frac{P}{\sin\left(\frac{180^\circ}{N}\right)} = \frac{50.8\text{ mm}}{\sin\left(\frac{180^\circ}{15}\right)} \approx 228.48\text{ mm}$$
 
 
 ---
