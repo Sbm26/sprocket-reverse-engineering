@@ -31,6 +31,8 @@ $$PCD = \frac{P}{\sin\left(\frac{180^\circ}{N}\right)} = \frac{50.8\text{ mm}}{\
 Using calculated parameters, **GearTrax** generated the exact ANSI standard tooth geometry, exported directly into **SolidWorks** (`.GTX` format) for final detailing
 
 
+---
+
 
 ## 🛠️ DFM & Production Workflow
 
