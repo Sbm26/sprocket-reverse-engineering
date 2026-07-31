@@ -21,7 +21,7 @@ A client supplied a worn drive sprocket requesting manufacturing and replacement
 ### 2.Design Calculations
 Using standard ANSI B29.1 formulas for a **15-tooth** sprocket, the PCD and root radii were calculated:
 
-$$PCD = \frac{P}{\sin\left(\frac{180^\circ}{N}\right)} = \frac{50.8\text{ mm}}{\sin\left(\frac{180^\circ}{15}\right)} \approx 228.48\text{ mm}$$
+$$PCD = \frac{P}{\sin\left(\frac{180^\circ}{N}\right)} = \frac{50.8\text{ mm}}{\sin\left(\frac{180^\circ}{15}\right)} \approx 244.34\text{ mm}$$
 
 
 ---
