@@ -4,6 +4,8 @@
 > **Tools:** SolidWorks, GearTrax  
 > **Manufacturing Processes:** CNC Lathe Turning, Gear Hobbing (Tooth Cutting), Induction Hardening  
 
+![Final component](Sprocket-Manufactured.jpeg)
+*(Figure 1: Final manufactured sprocket )*
 ---
 
 ## Project Overview
@@ -23,12 +25,9 @@ Using standard ANSI B29.1 formulas for a **15-tooth** sprocket, the PCD and root
 
 $$PCD = \frac{P}{\sin\left(\frac{180^\circ}{N}\right)} = \frac{50.8\text{ mm}}{\sin\left(\frac{180^\circ}{15}\right)} \approx 244.34\text{ mm}$$
 
+### 3. 3D CAD Modeling (SolidWorks + GearTrax)
 
----
-
-## 💻 3D CAD Modeling (SolidWorks + GearTrax)
-
-Using calculated parameters, **GearTrax** generated the exact ANSI standard tooth geometry, exported directly into **SolidWorks** (`.GTX` format) for final detailing
+Using calculated parameters, **GearTrax** generated the exact ANSI tooth geometry, which I exported directly into **SolidWorks** to model the wheel
 
 
 ---
