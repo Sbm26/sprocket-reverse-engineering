@@ -19,7 +19,7 @@ A client supplied a worn drive sprocket requesting manufacturing and replacement
 ### 1. Pitch Estimation & Chain Identification
 * Due to severe tooth flank erosion direct pitch measurements were unreliable (initial rough estimates yielded $\approx 56\text{ mm}$ pitch).
 * **Chain Size Verification:** After test-fitting multiple standard chains on the component, the sprocket was identified as an **ANSI #160 (2.0-inch / 50.8 mm pitch)** standard profile featuring a $20\text{ mm}$ pin diameter
-* PS: The ISO standard correspondent to ANSI B29.1 would be ISO 606 I believe
+* PS: The ISO standard correspondent to ANSI/ASME B29.1 would be ISO 606 I believe
 
 ### 2. Design Calculations
 Using standard ANSI B29.1 formulas for a **15-tooth** sprocket, the PCD and root radii were calculated:
