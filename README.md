@@ -28,7 +28,7 @@ $$PCD = \frac{P}{\sin\left(\frac{180^\circ}{N}\right)} = \frac{50.8\text{ mm}}{\
 
 ### 3. 3D CAD Modeling (SolidWorks + GearTrax)
 
-Using calculated parameters, **GearTrax** generated the exact ANSI tooth geometry, which I exported directly into **SolidWorks** to model the wheel
+Using calculated parameters, **GearTrax** generated the exact ANSI tooth geometry, which I exported directly into **SolidWorks** to model the wheel. The CAD file is uploaded as SLDPRT
 
 
 ---
@@ -36,7 +36,8 @@ Using calculated parameters, **GearTrax** generated the exact ANSI tooth geometr
 
 ## 🛠️ DFM & Production Workflow
 
-**Induction Hardening**: It is important to note that induction hardening was chosen due to the component's material (1.7225 alloy) as this specific alloy has enough carbon to be surface hardened without gas carburising. Induction hardening heats only the tooth surfaces to high temperatures before quenching, transforming the outer layer into martensite to resist roller chain abrasion. The inner bore, keyway, and hub core don't undergo the heat treatment meaning they maintain high toughness and ductility to absorb torsional dynamic loads and shock forces without cracking
+**Induction Hardening**: It is important to note that induction hardening was chosen due to the component's material (1.7225 alloy) as this specific alloy has enough carbon to be surface hardened without gas carburising. 
+Induction hardening heats only the tooth surfaces to high temperatures before quenching, transforming the outer layer into martensite to resist roller chain abrasion. The inner bore, keyway, and hub core don't undergo the heat treatment meaning they maintain high toughness and ductility to absorb torsional dynamic loads and shock forces without cracking
 
 ```text
   [1] Stock Procurement ──► [2] CNC Lathe Turning ──► [3] Hobbing / Tooth Cutting
