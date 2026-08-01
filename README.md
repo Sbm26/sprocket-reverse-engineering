@@ -4,8 +4,9 @@
 > **Tools:** SolidWorks, GearTrax  
 > **Manufacturing Processes:** CNC Lathe Turning, Gear Hobbing (Tooth Cutting), Induction Hardening  
 
-![Final component](Sprocket-Manufactured.jpeg)
+![Final component](./Sprocket-Manufactured.jpeg)
 *(Figure 1: Final manufactured sprocket.)*
+
 ---
 
 ## Project Overview
