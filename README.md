@@ -30,6 +30,8 @@ $$PCD = \frac{P}{\sin\left(\frac{180^\circ}{N}\right)} = \frac{50.8\text{ mm}}{\
 
 Using calculated parameters, **GearTrax** generated the exact ANSI tooth geometry, which I exported directly into **SolidWorks** to model the wheel. The CAD file is uploaded as SLDPRT
 
+![Final component](./Sprocket-CAD-Model.jpg)
+*(Figure 2: The 3D CAD model in SolidWorks.)*
 
 ---
 
